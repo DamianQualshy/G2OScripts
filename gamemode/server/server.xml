@@ -1,0 +1,4 @@
+<server>
+	<script src="file.nut" type="server" />	
+	<script src="main.nut" type="server" />
+</server>

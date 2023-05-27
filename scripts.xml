@@ -1,0 +1,7 @@
+<server>
+	<import src="gamemode/shared/shared.xml" />
+
+	<import src="gamemode/server/server.xml" />
+
+	<import src="gamemode/client/client.xml" />
+</server>

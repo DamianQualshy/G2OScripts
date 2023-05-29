@@ -1,0 +1,7 @@
+<server>
+	<script src="server/event-server.nut" type="server" />
+	<script src="server/event-send.nut" type="server" />
+
+	<script src="client/event-client.nut" type="client" />
+	<script src="client/event-send.nut" type="client" />
+</server>

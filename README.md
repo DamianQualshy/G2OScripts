@@ -3,15 +3,6 @@ A bunch of scripts and gamemodes I made on Gothic 2 Online, the multiplayer plat
 
 To navigate between the files, choose a desired branch on top and proceed from there.
 
-# What's done
-- Cruzer Role-Play (Squirrel Port)
-- ArkhanRP
-- ArkhanDM
-
-# Needs fixing
-- Gothic Homecoming
-- G2O EventLog
-
-# Planned
-- Counter-Strike Gamemode
-- G2O Clicker
+# G2OClicker
+The premise is: you join the server and click the left mouse button. That's it.
+All of the stats for the leaderboard are held on a MySQL database.

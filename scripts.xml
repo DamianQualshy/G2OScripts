@@ -1,0 +1,7 @@
+<server>
+	<script src="Shared.nut" type="shared" />
+
+	<script src="Client.nut" type="client" />
+
+	<script src="Server.nut" type="server" />
+</server>

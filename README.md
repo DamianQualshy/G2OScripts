@@ -3,15 +3,13 @@ A bunch of scripts and gamemodes I made on Gothic 2 Online, the multiplayer plat
 
 To navigate between the files, choose a desired branch on top and proceed from there.
 
-# What's done
-- Cruzer Role-Play (Squirrel Port)
-- ArkhanRP
-- ArkhanDM
+# Counter-Strike
+It's based on the old LUA gamemode, but not a straight-up port.
 
-# Needs fixing
-- Gothic Homecoming
-- G2O EventLog
-
-# Planned
-- Counter-Strike Gamemode
-- G2O Clicker
+Features:
+- Two teams (Guards and Bandits) alongside a Spectator
+- Bomb plant/defuse
+- Round time-limit
+- Autobalance
+- Consistent damage of 10
+- Limiting players to only using crossbows
